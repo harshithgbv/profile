@@ -1,4 +1,4 @@
-# profile
+
 ## 👋 About Me
 
 🚀 I am a Computer Science student who enjoys solving real-world problems through technology.
